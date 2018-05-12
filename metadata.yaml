@@ -1,0 +1,37 @@
+_repo: The-Expositor-s-Bible-The-Book-of-Numbers_42639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, Robert A. (Robert Alexander)
+    alias: Watson, Robert Alexander
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '40181'
+    url: http://www.gutenberg.org/2009/agents/40181
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Wace, Walter E.
+    - Clear, Claudius
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2013-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Numbers -- Commentaries'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The Book of Numbers'
+url: http://www.gutenberg.org/ebooks/42639
